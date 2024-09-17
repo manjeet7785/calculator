@@ -1,0 +1,47 @@
+html, body{
+  height: 100%;
+  width: 100%;
+  
+}
+
+.button{
+  padding: 20px;
+  width: 66px;
+  margin: 0 4px;
+  border: 3px solid rgb(5, 5, 5);
+  border-radius: 9px;
+  cursor: pointer;
+  border: 3px solid rgb(5, 5, 5);
+
+}
+
+.text-center{
+  text-align: center;
+}
+
+.mx-auto{
+  margin: auto;
+}
+.m-w-20{
+  max-width: 30;
+}
+.flex{
+  display: flex;
+
+}
+.flex-col{
+  flex-direction: column;
+}
+.item-center{
+  align-items: center;
+}
+.row{
+  margin: 5px 0;
+}
+.row input{
+  width: 260px;
+  margin: 2px;
+  padding: 12px;
+  border: 2px solid black;
+  border-radius: 7px;
+}
